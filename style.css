@@ -1,0 +1,102 @@
+
+.wrapper {
+margin: 0 auto;
+width: 1000px;
+}
+   
+body {
+    background-color: rgb(247, 247, 247);
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:first baseline;
+    width: 516px;
+    max-width: 516px;
+    margin-top: 32px;
+    margin-left:auto;
+    margin-right:auto
+    
+}
+
+
+#picture {
+    display: block;
+    unicode-bidi: isolate;
+    text-align:center;
+  font: optical sizing 1.5em;;
+  font-weight: weight;
+  font-style:rubik;
+  font-size-adjust:calc(0.7)
+  
+}
+
+p {
+    color: black;
+    font-size: 30px
+
+}
+.text1{
+    padding-top: 8rem;
+    display: flex; 
+    font-size-adjust: calc(0.8);
+    
+
+}
+.heading{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+
+
+}
+#toggle-details{
+    padding: 0 3rem 0 3rem;
+
+
+}
+
+
+.text2{
+ padding-inline: 23px;
+  font-size: larger;
+  font-weight: normal;
+  font-style: normal;
+  font-size-adjust: 0.7;
+  padding-block: 23px;
+  margin-top: -40px;
+
+}
+
+.text1{
+
+
+    font-size: larger;
+font-weight: weight;
+font-style:normal;
+font-size-adjust:calc(0.6)
+
+}
+
+.text3{
+    
+  margin-top: -20px;
+}
+
+a {
+    color:black
+}
+
+.picture2 {
+    margin-top: 20px;
+    margin-left: -20px
+}
+
+/* .openthing {
+font-size-adjust: calc(0.7);
+margin-left: 330px;
+
+
+
+
+} */
